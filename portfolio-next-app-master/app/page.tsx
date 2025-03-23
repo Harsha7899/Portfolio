@@ -1,6 +1,6 @@
 import { Hero } from "./components/hero";
 
-import About from "./components/about"; 
+import About  from "./components/about"; 
 
 import { Experience } from "./components/exprience";
 import { Education } from "./components/education";

@@ -33,20 +33,6 @@ const projects = [
     technologies: ["HTML", "CSS", "JavaScript", "PHP"],
     projectUrl: "https://github.com/Harsha7899/vba"
   },
-  
-  // {
-  //   title: "Prayan",
-  //   description:
-  //     "AI travel planner app using React Native, integrating Google Places and Maps APIs for personalized itineraries, flight details, hotel recommendations, and location-based search.",
-  //   technologies: [
-  //     "React Native",
-  //     "TypeScript",
-  //     "Google Cloud",
-  //     "Expo",
-  //     "Google Gemini API",
-  //   ],
-  //   projectUrl: "https://github.com/",
-  // },
  ];
 
 export function Projects() {
